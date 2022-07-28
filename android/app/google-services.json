@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916195052113",
+    "project_id": "learn-to-fly-f4fc6",
+    "storage_bucket": "learn-to-fly-f4fc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916195052113:android:1a4a7e0b1ac51a3d744670",
+        "android_client_info": {
+          "package_name": "com.racheal.learntofly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916195052113-81obc91ter8ppnvhr642d8nqav5as9sk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASM7cc_WCP5gqDy5KDNn_Rh7TgcQxD2CM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916195052113-81obc91ter8ppnvhr642d8nqav5as9sk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
